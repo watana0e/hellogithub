@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+}
+
+.hello {
+  color: rgb(255, 56, 56);
+  background-color: #2b2b2b;
+  margin-top: 170px;
+  padding: 60px;
+}
+
+.hello h1 {
+  text-align: center;
+}
+
+.hello span {
+  color: gold;
+}
+
+.hello p {
+  color: rgb(126, 228, 247);
+  text-align: center;
+}
